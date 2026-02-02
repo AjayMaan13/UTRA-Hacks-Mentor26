@@ -8,11 +8,18 @@ An autonomous biathlon-inspired robot built for **UTRA Hacks 2025** - Canada's p
 
 ![Robot Assembly](images/robot-assembly.jpeg)
 
+## 👥 Team
+[David Feldt](https://github.com/David-feldt) & Me
+
+Mentors at UTRA Hacks 2025
+
+
 ## 🏆 About UTRA Hacks
 
 **UTRA Hacks** is Canada's largest robotics hackathon, hosted annually by the [University of Toronto Robotics Association (UTRA)](https://www.utra.ca) in partnership with the U of T Robotics Institute. UTRA Hacks brings together students, mentors, and robotics enthusiasts for an intensive 2-day event focused on innovation, collaboration, and hands-on learning.
 
 This project was developed as **mentors** at UTRA Hacks, guiding student teams through the Winter Olympics challenge while demonstrating best practices in robotics system design.
+
 
 ## 🎯 Challenge Overview: Winter Olympics Biathlon
 
