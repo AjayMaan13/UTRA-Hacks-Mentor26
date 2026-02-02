@@ -1,4 +1,4 @@
-# Winter Olympics Biathlon Robot 🏂🎯
+# Winter Olympics Themed Robot 🏂🎯
 
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![UTRA Hacks](https://img.shields.io/badge/UTRA_Hacks-2025-blue)](https://hackathon.utra.ca/)
