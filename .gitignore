@@ -1,0 +1,39 @@
+# Arduino
+*.hex
+*.eep
+*.elf
+*.o
+*.d
+*.a
+
+# Build directories
+build/
+*.build/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
